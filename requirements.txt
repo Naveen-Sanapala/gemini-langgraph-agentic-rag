@@ -1,0 +1,16 @@
+pinecone
+sentence-transformers 
+langchain-pinecone 
+langchain 
+langchain-huggingface
+langchain-google-genai
+python-dotenv
+pydantic
+langchain-community
+fastapi
+uvicorn 
+streamlit
+langgraph
+google-cloud-aiplatform
+pinecone-client
+google-generativeai
