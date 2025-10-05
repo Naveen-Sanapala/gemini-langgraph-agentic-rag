@@ -13,6 +13,7 @@ Self-Critique Node	Evaluates answer completeness. Returns COMPLETE or REFINE.
 Refinement Node	    If refinement is required, pulls one more snippet and regenerates the final answer.
 
 # Project structure
+```bash
 gemini_langgraph_agentic_rag
  ┣ .env
  ┣ requirements.txt
@@ -25,7 +26,7 @@ gemini_langgraph_agentic_rag
  ┣ rag_graph.py           # LangGraph workflow definition
  ┣ ui.py       # Streamlit frontend UI
  ┗ README.md              # Documentation
- 
+ ```
 # Setup Instructions 
 1. Clone repository
 git clone https://github.com/Naveen-Sanapala/gemini-langgraph-agentic-rag.git
